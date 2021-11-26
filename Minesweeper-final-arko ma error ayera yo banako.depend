@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1362978073 source:e:\games\minesweeper\minesweeper-final-arko ma error ayera yo banako\main.cpp
+	<iostream>
+	<SDL/sdl.h>
+	"main_menu.h"
+	"level_ko_sabai_kaam_herne_file.h"
+
+1363018836 e:\games\minesweeper\minesweeper-final-arko ma error ayera yo banako\main_menu.h
+	<SDL/sdl.h>
+	"menu_part.h"
+
+1362874516 e:\games\minesweeper\minesweeper-final-arko ma error ayera yo banako\menu_part.h
+	<SDL/sdl.h>
+
+1362980924 e:\games\minesweeper\minesweeper-final-arko ma error ayera yo banako\level_ko_sabai_kaam_herne_file.h
+	<SDL/sdl.h>
+	"block.h"
+	<iostream>
+	<fstream>
+
+1362973651 e:\games\minesweeper\minesweeper-final-arko ma error ayera yo banako\block.h
+	<SDL/sdl.h>
+
+1362928574 source:c:\users\dell\desktop\minesweeper-final-arko ma error ayera yo banako\main.cpp
+	<iostream>
+	<SDL/sdl.h>
+	"main_menu.h"
+	"level_ko_sabai_kaam_herne_file.h"
+
+1362969338 c:\users\dell\desktop\minesweeper-final-arko ma error ayera yo banako\main_menu.h
+	<SDL/sdl.h>
+	"menu_part.h"
+
+1362825016 c:\users\dell\desktop\minesweeper-final-arko ma error ayera yo banako\menu_part.h
+	<SDL/sdl.h>
+
+1362931426 c:\users\dell\desktop\minesweeper-final-arko ma error ayera yo banako\level_ko_sabai_kaam_herne_file.h
+	<SDL/sdl.h>
+	"block.h"
+	<iostream>
+	<fstream>
+
+1362924152 c:\users\dell\desktop\minesweeper-final-arko ma error ayera yo banako\block.h
+	<SDL/sdl.h>
+
